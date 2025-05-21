@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import sherlock
+import sherlock 
+from sherlock import *
 from sherlock_project.sherlock import sherlock
 from sherlock_project.sites import SitesInformation
 from sherlock_project.notify import QueryNotifyPrint
