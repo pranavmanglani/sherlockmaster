@@ -9,3 +9,4 @@ sherlock
 sherlock_project.sherlock
 sherlock_project.sites
 sherlock_project.notify
+sherlock_project.result
